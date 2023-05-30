@@ -3,7 +3,7 @@ The final project from the course "Systems programming" in the Open University.
 
 The project is to implement an Assembler in C.
 
-The code is in files: assembler.h, assembler.c, data.c, label.c, operation.c,  print.c and valid.c.
+The code is in files: makefile, assembler.h, assembler.c, data.c, label.c, operation.c,  print.c and valid.c.
 
 prog1.as is an example for an input file and prog1.ent, prog1.ext and prog1.ob are the output files.
 
